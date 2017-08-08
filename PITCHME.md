@@ -32,12 +32,12 @@
 
 ### <font color="DodgerBlue">Youtuber</font>
 
-<img src=https://raw.githubusercontent.com/u-nation/self-intro/master/assets/pic_kamegoro_main.jpg width=400px height=600px>
+<img src=https://raw.githubusercontent.com/u-nation/self-intro/master/assets/pic_kamegoro_main.jpg width=300px height=400px>
 #### カメ五郎 
 
 ---
 
-### <font color="DodgerBlue">Youtuber</font>
+# <font color="DodgerBlue">カメ五郎</font>
 
 - [オススメ動画](https://youtu.be/u6SRxUfYahQ) |
 - 轢死体から飯テロへ |
