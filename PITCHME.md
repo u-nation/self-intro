@@ -1,8 +1,3 @@
-### <font color="DodgerBlue">Reified type parameters</font>
-
-##### shibuya.apk #17
-
----
 
 ### <font color="DodgerBlue">自己紹介</font>
 

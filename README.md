@@ -1,4 +1,3 @@
-# P-ReifiedTypeParameters
-ReifiedTypeParameters
+# 自己紹介
 
-[![GitPitch](https://gitpitch.com/assets/badge.svg)](https://gitpitch.com/u_nation/self-intro/master?grs=github&t=white)
+[![GitPitch](https://gitpitch.com/assets/badge.svg)](https://gitpitch.com/u-nation/self-intro/master?grs=github&t=white)
