@@ -17,9 +17,9 @@
 
 ### <font color="DodgerBlue">小学生</font>
 
-- 守山拓朗 |(仲良し)
-- 秘密基地 |(ツリーハウスのような高クオリティ)
-- 冒険家 |(潔癖症で断念)
+- 守山拓朗 |
+- 秘密基地 |
+- 夢は冒険家 |
 
 ---
 
@@ -32,7 +32,7 @@
 
 ### <font color="DodgerBlue">Youtuber</font>
 
-<img src=https://raw.githubusercontent.com/u-nation/self-intro/master/assets/pic_kamegoro_main.jpg width=200px height=200px>
+<img src=https://raw.githubusercontent.com/u-nation/self-intro/master/assets/pic_kamegoro_main.jpg width=400px height=600px>
 #### カメ五郎 
 
 ---
