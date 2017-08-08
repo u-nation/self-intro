@@ -17,21 +17,23 @@
 
 ### <font color="DodgerBlue">小学生</font>
 
-- 守山拓朗 |
-- 秘密基地 |
-- 冒険家 |
-@[1](仲良し)
-@[2](ツリーハウスのような高クオリティ)
-@[3](潔癖症で断念)
+- 守山拓朗 |(仲良し)
+- 秘密基地 |(ツリーハウスのような高クオリティ)
+- 冒険家 |(潔癖症で断念)
+
 ---
 
 ### <font color="DodgerBlue">Youtuber</font>
 
-- ヒカキン |
-- カメ五郎 |
-@[1](<img src=https://raw.githubusercontent.com/u-nation/self-intro/master/assets/hikakin.jpeg width=100px height=100px>)
-@[2](https://raw.githubusercontent.com/u-nation/self-intro/master/assets/pic_kamegoro_main.jpg)
+<img src=https://raw.githubusercontent.com/u-nation/self-intro/master/assets/hikakin.jpeg width=200px height=200px>
+#### ヒカキン
 
+---
+
+### <font color="DodgerBlue">Youtuber</font>
+
+<img src=https://raw.githubusercontent.com/u-nation/self-intro/master/assets/pic_kamegoro_main.jpg width=200px height=200px>
+#### カメ五郎 
 
 ---
 
