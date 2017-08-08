@@ -1,0 +1,6 @@
+theme : white
+footnote : ""
+slide-number: true
+transition : fade
+theme-override : assets/css/PITCHME.css
+#logo : logo.png
